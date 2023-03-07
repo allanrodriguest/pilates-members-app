@@ -1,4 +1,3 @@
-const e = require('express')
 const express = require('express')
 const uuid = require('uuid')
 const router = express.Router()
@@ -32,7 +31,8 @@ router.post('/', (req, res) => {
   }
 
   members.push(newMember)
-  res.json(members)
+  // res.json(members)
+  res.redirect('/')
 })
 
 // Update Member
