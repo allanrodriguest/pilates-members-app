@@ -1,6 +1,6 @@
 # Pilates Members App
 
-![image](https://user-images.githubusercontent.com/60073178/223293509-e55d3518-9835-48be-a241-8432177c7acf.png)
+<img src="https://user-images.githubusercontent.com/60073178/223293509-e55d3518-9835-48be-a241-8432177c7acf.png" width="600px" height="290px">
 
 > Content:
 
